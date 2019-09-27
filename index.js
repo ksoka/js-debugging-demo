@@ -1,7 +1,7 @@
 function sum(a, b) {
     let value1 = a;
-    let value2 = a;
-    let result = valueA + valueB;
+    let value2 = b;
+    let result = valuea + valueb;
     return result;
 }
 
