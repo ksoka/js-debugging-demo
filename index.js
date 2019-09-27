@@ -9,7 +9,11 @@ function deduct(a,b)
 function sum(a, b) {
     let value1 = a;
     let value2 = b;
+<<<<<<< HEAD
     let result = value1 + value2;
+=======
+    let result = valuea + valueb;
+>>>>>>> a96d5482cca446a18f54646dbded83432a12a0f8
     return result;
 }
 
